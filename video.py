@@ -1,4 +1,5 @@
 import cv2
+import datetime
 
 #เปิดวิดีโอ 
 video = cv2.VideoCapture("Files/greeting_vid.mp4")
@@ -8,6 +9,8 @@ while (video.isOpened()):
 
     if ret == True: # ถ้าวิดีโอยังเล่นไม่จบ ให้แสดงผลออกมา จนกว่ามันจะจบ
         #gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY) # ทำให้วิดีโอเป็น grayscale
+        currentDate = str(datetime.datetime.now())
+        cv2.putText(frame, currentDate, (10,30), cv2.FONT_HERSHEY_SIMPLEX, 1, (255,0,0))
         cv2.imshow("Output", frame) # เปลี่ยนจาก frame เป็น gray ทำให้วิดีโอเป็น grayscale
         if cv2.waitKey(10) & 0xFF == ord("e"): # กดตัว e จะหยุด ออกจากลูป และหยุดทันที
             break
