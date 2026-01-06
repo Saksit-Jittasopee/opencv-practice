@@ -1,103 +1,68 @@
 # Python OpenCV
 ## Example
-Image
-<br>
+
+### Image
 <img src="images/Image.png"></img>
-<br>
-<br>
-Video
-<br>
+
+### Video
 <img src="images/Video.png"></img>
-<br>
-<br>
-Recoring
+
+### Recording
 <img src="images/Webcam.png"></img>
-<br>
-<br>
-Draw
+
+### Draw
 <img src="images/Draw.png"></img>
-<br>
-<br>
-Showcolor
+
+### Showcolor
 <img src="images/Showcolor.png"></img>
-<br>
-<br>
-Connect
-<br>
+
+### Connect
 <img src="images/Connect.png"></img>
-<br>
-<br>
-Maskcolor
+
+### Maskcolor
 <img src="images/Maskcolor.png"></img>
-<br>
-<br>
-Face Detection
+
+### Face Detection
 <img src="images/FaceDetect1.png"></img>
-<br>
+
 <img src="images/FaceDetect2.png"></img>
-<br>
-<br>
-Color Trackbar
-<br>
+
+### Color Trackbar
 <img src="images/ColorTrackbar.png"></img>
-<br>
-<br>
-Matplotlib Image
-<br>
+
+### Matplotlib Image
 <img src="images/MatplotlibImage.png"></img>
-<br>
+
 <img src="images/MatplotlibImage2.png"></img>
-<br>
-<br>
-Threshold
-<br>
+
+### Threshold
 <img src="images/Threshold.png"></img>
-<br>
+
 <img src="images/ThresholdValue.png"></img>
-<br>
-<br>
-Adaptative Threshold
-<br>
+
+### Adaptative Threshold
 <img src="images/AdaptativeThreshold.png"></img>
-<br>
-<br>
-Morphological
-<br>
+
+### Morphological
 <img src="images/Morphological.png"></img>
-<br>
-<br>
-Convolution & Filtering
-<br>
+
+### Convolution & Filtering
 <img src="images/Convolution_Filtering.png"></img>
-<br>
-<br>
-Sobel Edge
-<br>
+
+### Sobel Edge
 <img src="images/SobelEdge.png"></img>
-<br>
-<br>
-Laplacian Edge
-<br>
+
+### Laplacian Edge
 <img src="images/LaplacianEdge.png"></img>
-<br>
-<br>
-Canny Edge
-<br>
+
+### Canny Edge
 <img src="images/CannyEdge.png"></img>
-<br>
-<br>
-Contours
-<br>
+
+### Contours
 <img src="images/Contours.png"></img>
-<br>
-<br>
-Motion Detection
-<br>
+
+### Motion Detection
 <img src="images/MotionDetection.png"></img>
-<br>
-<br>
-Motion Tracker
-<br>
+
+### Motion Tracker
 <img src="images/MotionTracker.png"></img>
-<br>
-<br>
